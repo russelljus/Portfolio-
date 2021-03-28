@@ -4,7 +4,7 @@ header {
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-color: lightblue;
+    background-color: lightyellow;
 
 }
 
@@ -18,8 +18,8 @@ nav {
 
 }
 .my-background-image {
-    background-image: url("https://www.movie-locations.com/movies/b/Beach-Phi-Phi-Leh.jpg");
-    min-height: 40vh;
+    background-image: url("https://s22867.pcdn.co/wp-content/uploads/2020/10/BestAllMountainSkis_FEAT.png");
+    min-height: 50vh;
     min-width: 1500px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -28,15 +28,26 @@ nav {
     float: right;
 }
 .page-section {
-    background-color: lightblue;
+    background-color: lightyellow;
 
 }
 .Horiseon {
-    background-image: url("https://www.movie-locations.com/movies/b/Beach-Phi-Phi-Leh.jpg");
-    min-height: 40vh;  
+    background-image: url("https://emarshall121.github.io/portfolio/assets/images/horiseon.png");
+    min-height: 40vh;
+    min-width: 1500px;
+    background-repeat: no-repeat;
+    background-size: cover;  
 }
 
 .Run-Buddy {
-    background-image: url("https://www.movie-locations.com/movies/b/Beach-Phi-Phi-Leh.jpg");
-    min-height: 40vh; 
+    background-image: url("https://cdn.vox-cdn.com/thumbor/KO_gWQtcDEpfVrmVFuJnb9EYHo0=/0x40:1000x790/1200x800/filters:focal(0x40:1000x790)/cdn.vox-cdn.com/uploads/chorus_image/image/46889290/shutterstock_266758136.0.0.jpg");
+    min-height: 40vh;
+    min-width: 1500px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    font-style: normal;
 }
