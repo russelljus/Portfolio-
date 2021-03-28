@@ -1,0 +1,42 @@
+header {
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: lightblue;
+
+}
+
+nav {
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-evenly;  
+}
+.nav-bar-link {
+    padding-right: 15px;
+
+}
+.my-background-image {
+    background-image: url("https://www.movie-locations.com/movies/b/Beach-Phi-Phi-Leh.jpg");
+    min-height: 40vh;
+    min-width: 1500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.my-background-image div h2 {
+    float: right;
+}
+.page-section {
+    background-color: lightblue;
+
+}
+.Horiseon {
+    background-image: url("https://www.movie-locations.com/movies/b/Beach-Phi-Phi-Leh.jpg");
+    min-height: 40vh;  
+}
+
+.Run-Buddy {
+    background-image: url("https://www.movie-locations.com/movies/b/Beach-Phi-Phi-Leh.jpg");
+    min-height: 40vh; 
+}
