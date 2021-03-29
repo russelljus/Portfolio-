@@ -17,4 +17,5 @@ You will find two of my recent projects on the porfolio, Run-Buddy and Horiseon 
 
 <h2>Deployed Links</h2>
 
+https://russelljus.github.io/Portfolio-/.
 https://github.com/russelljus
