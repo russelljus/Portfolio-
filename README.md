@@ -13,4 +13,5 @@ You will find two of my recent projects on the porfolio, Run-Buddy and Horiseon 
 <li> Run-Buddy landing page: Worked with modules to setup basic Html code and then style with CSS.</li>
   
   
-  
+  <img width="1440" alt="Screen Shot 2021-03-28 at 7 47 34 PM" src="https://user-images.githubusercontent.com/79387241/112777414-6f335680-8fff-11eb-96a8-a298aba92f7d.png">
+
