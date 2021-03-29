@@ -1,3 +1,10 @@
+/*Styling for entire page*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
 header {
     display: flex; 
     flex-direction: row;
@@ -5,7 +12,8 @@ header {
     flex-wrap: wrap;
     align-items: center;
     background-color: lightyellow;
-
+    box-shadow: 5px 10px 15px black;
+    border-radius: 5px;
 }
 
 nav {
@@ -23,12 +31,15 @@ nav {
     min-width: 1500px;
     background-repeat: no-repeat;
     background-size: cover;
+    box-shadow: 5px 10px 15px black;
+    border-radius: 5px;
 }
 .my-background-image div h2 {
-    float: right;
+    float: left;
 }
 .page-section {
     background-color: lightyellow;
+    
 
 }
 .Horiseon {
@@ -36,7 +47,10 @@ nav {
     min-height: 40vh;
     min-width: 1500px;
     background-repeat: no-repeat;
-    background-size: cover;  
+    background-size: cover;
+    box-shadow: 5px 10px 15px black;
+    border-radius: 5px;
+  
 }
 
 .Run-Buddy {
@@ -44,10 +58,12 @@ nav {
     min-height: 40vh;
     min-width: 1500px;
     background-repeat: no-repeat;
-    background-size: cover; 
+    background-size: cover;
+    box-shadow: 5px 10px 15px black;
+    border-radius: 5px; 
 }
 
-h1 {
-    font-family:'Times New Roman', Times, serif;
-    font-style: normal;
+.page-section {
+    box-shadow: 5px 10px 15px black;
+    border-radius: 5px;
 }
