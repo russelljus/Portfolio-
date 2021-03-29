@@ -40,10 +40,19 @@ nav {
 .page-section {
     background-color: lightyellow;
     
-
 }
+
+/* .background-color {
+    background-color: beige;
+    opacity: .4;
+    min-width: 25vw;
+}  */
+    
+
+
 .Horiseon {
-    background-image: url("https://emarshall121.github.io/portfolio/assets/images/horiseon.png");
+    background-image: url("./digital-marketing-meeting.jpg");
+    /* opacity: .5; */
     min-height: 40vh;
     min-width: 1500px;
     background-repeat: no-repeat;
@@ -66,4 +75,12 @@ nav {
 .page-section {
     box-shadow: 5px 10px 15px black;
     border-radius: 5px;
+}
+
+.contact {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    min-height: 10vh;
+
 }
